@@ -1,0 +1,8 @@
+user = ksubrma
+date = 2008-09-17 7:52:43
+file1:
+	name=crimpers
+	contains=42
+file2:
+	name=wire
+	contains=strippers
