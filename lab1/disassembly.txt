@@ -1,0 +1,4 @@
+1) entry point address = 0x82ac
+2) first function = call_gmon_start
+3) hello-bigd is longer because it contains the disassembly of many sections that hello-d does not. Specifically hello-bigd contains the dynamic sym table and hello-d does not
+4) Rodata contains the hex values for the string "Hello World!\n", therefore it is correct.
